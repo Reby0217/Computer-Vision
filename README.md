@@ -7,7 +7,7 @@
 
 ### A2
 - Scaled representation
-- Object/face detection with normalized cross-correlation
+- Face detection with normalized cross-correlation
 - Gaussian and Laplacian image pyramids
 - Image blending
 
