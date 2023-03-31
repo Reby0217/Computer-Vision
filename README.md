@@ -6,5 +6,11 @@
 - Denoising filters
 
 ### A2
-- Face Detection
-- Image Blending
+- Scaled representation
+- Object/face detection with normalized cross-correlation
+- Gaussian and Laplacian image pyramids
+- Image blending
+
+### A3
+- Texture synthesis by non-parametric sampling
+- Hole filling using texture synthesis
